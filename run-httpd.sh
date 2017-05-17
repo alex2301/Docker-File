@@ -1,2 +1,2 @@
 #!/bin/bash
-exec /usr/sbin/apahectl -DFOREGROUND
+exec /usr/sbin/apachectl -DFOREGROUND
